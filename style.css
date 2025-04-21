@@ -1,5 +1,6 @@
 header  {
-    text-align: inline-box;
+    text-align: right;
+    display: inline-block;
 }
 
 .current {
