@@ -3,6 +3,6 @@ header  {
     display: inline-block;
 }
 
-.current {
+.active {
     text-align: left;
 }
